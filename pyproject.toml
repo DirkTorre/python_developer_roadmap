@@ -1,7 +1,7 @@
 [project]
 name = "python-developer-roadmap"
 version = "0.1.0"
-description = "Add your description here"
+description = "A systematic approach to learn all of python."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
