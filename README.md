@@ -10,6 +10,7 @@ Project dedicated to:
 [pydon'ts](https://mathspp.com/blog/pydonts)
 
 Progress can be found in progress.ods
-Continue at object oriented programming.
+
+Continue at binary search tree, then oop dunders and decorators
 
 NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some stuff I already know. This is for myself.
