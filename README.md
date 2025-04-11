@@ -11,6 +11,11 @@ Project dedicated to:
 
 Progress can be found in progress.ods
 
-Continue at binary search tree, then oop dunders and decorators
+TODO:
+1. binary search tree
+2. oop dunders
+3. (oop) decorators
+4. hash tables
+5. pytest
 
 NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some stuff I already know. This is for myself.
