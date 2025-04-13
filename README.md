@@ -12,7 +12,6 @@ Project dedicated to:
 Progress can be found in progress.ods
 
 TODO:
-1. binary search tree
 2. oop dunders
 3. (oop) decorators
 4. hash tables

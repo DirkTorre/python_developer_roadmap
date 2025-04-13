@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+data/names.txt
+data/sorted_names.txt
