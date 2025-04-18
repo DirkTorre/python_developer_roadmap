@@ -12,13 +12,13 @@ Project dedicated to:
 Progress can be found in progress.ods
 
 TODO:
-1. lambdas
-2. regular expressions 
-3. (oop) decorators
-4. other decorators
-5. iterators
-6. hash tables
-7. uv
-8. pytest
+
+1. regular expressions
+2. (oop) decorators
+3. other decorators
+4. iterators
+5. hash tables
+6. uv
+7. pytest
 
 NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some stuff I already know. This is for myself.
