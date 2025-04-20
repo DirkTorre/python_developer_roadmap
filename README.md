@@ -13,12 +13,13 @@ Progress can be found in progress.ods
 
 TODO:
 
-1. regular expressions
-2. (oop) decorators
-3. other decorators
-4. iterators
-5. hash tables
-6. uv
-7. pytest
-
+1. (oop) decorators
+2. context manager
+3. OOP exercises (in OOP_tutorial)
+4. other decorators + creating your own decorators
+5. iterators
+6. hash tables
+7. generator expressions
+8. concurency
+9. testing
 NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some stuff I already know. This is for myself.
