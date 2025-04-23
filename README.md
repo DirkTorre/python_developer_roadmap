@@ -11,15 +11,19 @@ Project dedicated to:
 
 Progress can be found in progress.ods
 
+Note: [The official Python documentation](https://docs.python.org/3.12/tutorial/index.html)
+
 TODO:
 
-1. (oop) decorators
-2. context manager
-3. OOP exercises (in OOP_tutorial)
-4. other decorators + creating your own decorators
-5. iterators
-6. hash tables
-7. generator expressions
-8. concurency
-9. testing
+
+1. context managers: https://book.pythontips.com/en/latest/context_managers.html
+2. OOP exercises (in OOP_tutorial)
+3. iterators
+4. hash tables
+5. generator expressions
+6. concurrency
+7. testing
+8. documentation
+9. take a break
+
 NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some stuff I already know. This is for myself.
