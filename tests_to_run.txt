@@ -1,0 +1,1 @@
+tests/test_class.py::TestClass::test_one

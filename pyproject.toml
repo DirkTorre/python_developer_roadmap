@@ -4,9 +4,22 @@ version = "0.1.0"
 description = "A systematic approach to learn all of python."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "flask>=3.1.2",
+    "pytest-mock>=3.15.1",
+    "requests>=2.32.5",
+]
 
 [dependency-groups]
 dev = [
     "ipykernel>=6.29.5",
+    "pytest>=8.4.2",
+]
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests",
+    "integration",
 ]

@@ -69,10 +69,10 @@ Note: [The official Python documentation](https://docs.python.org/3.12/tutorial/
 
 context managers: https://book.pythontips.com/en/latest/context_managers.html
 2. OOP exercises (in OOP_tutorial)
-3. testing
+3. testing: [continue here: Assertions about expected exceptions](https://docs.pytest.org/en/stable/how-to/assert.html)
 4. generator expressions
 5. documentation: MkDocs + MkDocStrings
 6. take a break
 7. concurrency
 
-NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some stuff I already know. This is for myself.
+NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some i just want to recap. This is for myself.
