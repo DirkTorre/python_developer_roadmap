@@ -75,4 +75,8 @@ context managers: https://book.pythontips.com/en/latest/context_managers.html
 6. take a break
 7. concurrency
 
+
+design pattrerns: https://www.geeksforgeeks.org/system-design/software-design-patterns/
+
+
 NOTE TO RECRUITERS AND EMPLOYERS: I know more than listed here, and some i just want to recap. This is for myself.
